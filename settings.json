@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Frendly--SMP.aternos.me:33790",
+    "port": 33790,
     "version": "",
     "try-creative": false
   },
